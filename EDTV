@@ -11,49 +11,44 @@
 	"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/DTV.txt",
 	"import": false
 	},	
-	{
-	"name":"SPORTS",	
-	"image":"https://f.ptcdn.info/272/061/000/pjb62g64b6VW3x7v8Tc8-o.gif",
-	"groups":
-		[
         {
-		"name": "ตารางถ่ายทอดสดฟุตบอล",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNckEgxuUagUkK6UIlPuTOLMLJ0t3UcpHmw&usqp=CAU",
-		"url": "https://pastebin.com/CfPEkHei",
-		"embed": true
-		},
-		{
-		"name": "Highlights Football",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/A1eGY9SWDwL.png",
-		"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/highlights%20football.txt",
-		"import": false
-		},
-		{
-		"name": "true PREMIER FOOTBALL",
-		"image": "https://www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg",
-		"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20premier.txt",
-		"import": false
-		},
-		{
-		"name": "true sports",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
-		"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20sports.txt",
-		"import": false
-		},
-		{
-		"name": "beIN SPORTS",
-		"image": "https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",
-		"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/beIN%20sports.txt",
-		"import": false
-		},
-		{
-		"name": "Motorsports",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSsCWrmczKKhFCpRBKurEpYwk8BKfWPkqAw&usqp=CAU",
-		"url": "https://pastebin.com/edit/uWj8cmTf",
-		"import": false
-		},
-		]
+	"name": "ตารางถ่ายทอดสดฟุตบอล",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNckEgxuUagUkK6UIlPuTOLMLJ0t3UcpHmw&usqp=CAU",
+	"url": "https://pastebin.com/CfPEkHei",
+	"embed": true
 	},
+	{
+	"name": "Highlights Football",
+	"image": "https://images-na.ssl-images-amazon.com/images/I/A1eGY9SWDwL.png",
+	"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/highlights%20football.txt",
+	"import": false
+	},
+	{
+	"name": "true PREMIER FOOTBALL",
+	"image": "https://www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg",
+	"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20premier.txt",
+	"import": false
+	},
+	{
+	"name": "true sports",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
+	"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20sports.txt",
+	"import": false
+	},
+	{
+	"name": "beIN SPORTS",
+	"image": "https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",
+	"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/beIN%20sports.txt",
+	"import": false
+	},
+	{
+	"name": "Motorsports",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSsCWrmczKKhFCpRBKurEpYwk8BKfWPkqAw&usqp=CAU",
+	"url": "https://pastebin.com/edit/uWj8cmTf",
+	"import": false
+	},
+	]
+},
 	
 		
 
