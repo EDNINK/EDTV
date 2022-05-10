@@ -2,7 +2,7 @@
 "name": "beIN SPORTS",
 "author": "beIN SPORTS",
 "image": "https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",
-"url": "https://pastebin.com/edit/SdF7ntvg",
+"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/beIN%20sports.txt",
 "groups": 
 	[
 	{
