@@ -1,0 +1,413 @@
+{
+"name": "true sports",
+"author": "true sports",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
+"url": "https://pastebin.com/edit/5iVkjp5w",
+"groups": 
+	[
+	{
+	"name":"true sports 1",
+	"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 1 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.we-play.live/watching/tv/true-sports-hd",
+		"import": false
+		},
+		{
+		"name": "true sports 1 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.doofootball.com/dootv/live/truesporthd#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 1 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd/",
+		"import": false
+		},
+		{
+		"name": "true sports 1 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/22/TRUE-SPORT-HD1-22/37825.html",
+		"import": false
+		},
+		{
+		"name": "true sports 1 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.fifa5t.com/doballlive/ch032/",
+		"import": false
+		},
+		{
+		"name": "true sports 1 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/",
+		"import": false
+		},
+		{
+		"name": "true sports 1 livestream88",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.livestream88.com/sport/true-sport-hd-1/",
+		"import": false
+		},
+		{
+		"name": "true sports 1 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_original.png",
+		"url": "https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true sports 2",
+	"image":"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 2 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://we-play.live/watching/tv/true-sports-hd-2",
+		"import": false
+		},
+		{
+		"name": "true sports 2 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://www.doofootball.com/dootv/live/truesporthd2#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 2 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd2/",
+		"import": false
+		},
+		{
+		"name": "true sports 2 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/23/TRUE-SPORT-HD2-23/37829.html",
+		"import": false
+		},
+		{
+		"name": "true sports 2 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch033/",
+		"import": false
+		},
+		{
+		"name": "true sports 2 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://dooball2you.com/truesporthd2/",
+		"import": false
+		},
+		{
+		"name": "true sports 2 livestream88",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://www.livestream88.com/sport/true-sport-hd-2/",
+		"import": false
+		},
+		{
+		"name": "true sports 2 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true sports 3",
+	"image":"https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 3 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://we-play.live/watching/tv/true-sports-hd-3",
+		"import": false
+		},
+		{
+		"name": "true sports 3 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.doofootball.com/dootv/live/truesporthd3#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 3 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3/",
+		"import": false
+		},
+		{
+		"name": "true sports 3 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/24/TRUE-SPORT-HD3-24/37830.html",
+		"import": false
+		},
+		{
+		"name": "true sports 3 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch034/",
+		"import": false
+		},
+		{
+		"name": "true sports 3 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd3/",
+		"import": false
+		},
+		{
+		"name": "true sports 3 livestream88",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.livestream88.com/sport/true-sport-hd-3/",
+		"import": false
+		},
+		{
+		"name": "true sports 3 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+		"url": "https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true sports 4",
+	"image":"https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 4 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://we-play.live/watching/tv/true-sports-hd-4",
+		"import": false
+		},
+		{
+		"name": "true sports 4 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.doofootball.com/dootv/live/truesporthd4#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 4 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd4/",
+		"import": false
+		},
+		{
+		"name": "true sports 4 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/116/TRUE-SPORT-HD4-116/37907.html",
+		"import": false
+		},
+		{
+		"name": "true sports 4 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch035/",
+		"import": false
+		},
+		{
+		"name": "true sports 4 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd4/",
+		"import": false
+		},
+		{
+		"name": "true sports 4 livestream88",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.livestream88.com/sport/true-sport-hd-4/",
+		"import": false
+		},
+		{
+		"name": "true sports 4 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+		"url": "https://www.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true sports 5",
+	"image":"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 5 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-sports-5",
+		"import": false
+		},
+		{
+		"name": "true sports 5 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.doofootball.com/dootv/live/truesport5#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 5 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "",
+		"import": false
+		},
+		{
+		"name": "true sports 5 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/32/TRUE-SPORT-5-32/37838.html",
+		"import": false
+		},
+		{
+		"name": "true sports 5 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch039/",
+		"import": false
+		},
+		{
+		"name": "true sports 5 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesport5/",
+		"import": false
+		},
+		{
+		"name": "true sports 5 livestream88รอ",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.livestream88.com/sport/true-sport-5/",
+		"import": false
+		},
+		{
+		"name": "true sports 5 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true sports 7",
+	"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+	"stations": 
+		[
+		{
+		"name": "true sports 7 Weplay",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-sports-7",
+		"import": false
+		},
+		{
+		"name": "true sports 7 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.doofootball.com/dootv/live/truesport7#main_dootv",
+		"import": false
+		},
+		{
+		"name": "true sports 7 andaman888th",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "",
+		"import": false
+		},
+		{
+		"name": "true sports 7 ดูหนังอิอิ",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/60/TRUE-SPORT-7-60/37866.html",
+		"import": false
+		},
+		{
+		"name": "true sports 7 fifa5t",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch041/",
+		"import": false
+		},
+		{
+		"name": "true sports 7 dooball2you",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesport7/",
+		"import": false
+		},
+		{
+		"name": "true sports 7 livestream88รอ",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.livestream88.com/sport/true-sport-7/",
+		"import": false
+		},
+		{
+		"name": "true sports 7 doomovie-hd",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+		"url": "https://www.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"true SPOTV",
+	"image":"https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+	"stations": 
+		[
+		{
+		"name": "SPOTV we-play",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.we-play.live/watching/tv/spotv",
+		"import": false
+		},		
+		{
+		"name": "SPOTV ดูหนังอิอิ",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/28/spottv-hd1/37834.html",
+		"import": false
+		},		
+		{
+		"name": "SPOTV livestream88",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.livestream88.com/sport/spotv1/",
+		"import": false
+		},		
+		{
+		"name": "SPOTV dooball2you",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87spotv1/",
+		"import": false
+		},		
+		{
+		"name": "SPOTV doomovie-hd",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8",
+		"import": false
+		},		
+		]
+	},
+	{
+	"name":"true SPOTV2",
+	"image":"https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+	"stations": 
+		[
+		{
+		"name": "SPOTV2 we-play",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.we-play.live/watching/tv/spotv2",
+		"import": false
+		},		
+		{
+		"name": "SPOTV2 ดูหนังอิอิ",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/29/spottv-hd2/37835.html",
+		"import": false
+		},		
+		{
+		"name": "SPOTV2 livestream88",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.livestream88.com/sport/spotv2/",
+		"import": false
+		},		
+		{
+		"name": "SPOTV2 dooball2you",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87spotv2/",
+		"import": false
+		},		
+		{
+		"name": "SPOTV2 doomovie-hd",
+		"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+		"url": "https://www.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8",
+		"import": false
+		},			
+		]
+	},	
+	]
+}

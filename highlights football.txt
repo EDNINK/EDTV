@@ -1,0 +1,89 @@
+{
+"name": "Highlights Football",
+"author": "Highlights Football",
+"image": "https://images-na.ssl-images-amazon.com/images/I/A1eGY9SWDwL.png",
+"url": "https://pastebin.com/edit/PB6Tdh5i",
+"groups": 
+	[
+	{
+	"name":"ไทยลีก",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_League_Logo.svg/1920px-Thai_League_Logo.svg.png",
+	"url": "https://pastebin.com/YgBGw1Qa",
+	"import": false
+	},
+	{
+	"name":"Premier League",
+	"image":"https://static.siamsport.co.th/files/images/GettyImages-1261725039.jpg",
+	"url": "https://pastebin.com/fJRLC8sQ",
+	"import": false
+	},
+	{
+	"name":"FA CUP",
+	"image":"https://www.kindpng.com/picc/m/788-7885050_the-fa-cup-logo-fa-cup-png-transparent.png",
+	"groups":
+		[
+		{
+		"name": "FA CUP 2021-22",
+		"image": "https://www.kindpng.com/picc/m/788-7885050_the-fa-cup-logo-fa-cup-png-transparent.png",
+		"url": "https://pastebin.com/ZDuEhykG",
+		"import": false
+		},
+		]
+	}, 
+	{
+	"name":"EFL CUP",
+	"image":"https://e7.pngegg.com/pngimages/639/427/png-clipart-2016-17-efl-cup-english-football-league-fa-cup-efl-championship-premier-league-premier-league-blue-text.png",
+	"groups":
+		[
+		{
+		"name": "EFL CUP 2021-22",
+		"image": "https://e7.pngegg.com/pngimages/639/427/png-clipart-2016-17-efl-cup-english-football-league-fa-cup-efl-championship-premier-league-premier-league-blue-text.png",
+		"url": "https://pastebin.com/H7vTVjiX",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"Champions League",
+	"image":"https://miro.medium.com/max/960/1*7WgI_r0wUr8XdRNZF6HgeA.jpeg",
+	"groups":
+		[
+		{
+		"name": "Champions League 2021-22",
+		"image": "https://miro.medium.com/max/960/1*7WgI_r0wUr8XdRNZF6HgeA.jpeg",
+		"url": "https://pastebin.com/9aAQLzDt",
+		"import": false
+		},
+		]
+	}, 
+	{
+	"name":"Europa League",
+	"image":"https://www.matichon.co.th/wp-content/uploads/2018/11/no-more-adidas-all-new-molten-uefa-europa-league-18-19-ball-2.jpg",
+	"groups":
+		[
+		{
+		"name": "Europa League 2021-22",
+		"image": "https://www.matichon.co.th/wp-content/uploads/2018/11/no-more-adidas-all-new-molten-uefa-europa-league-18-19-ball-2.jpg",
+		"url": "https://pastebin.com/qn332uJT",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"UEFA Europa Conference League",
+	"image":"https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/format/wide1/key_views_uecl_002_20210613124853.png",
+	"groups":
+		[
+		{
+		"name": "UEFA Europa Conference League 2021-22",
+		"image": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/format/wide1/key_views_uecl_002_20210613124853.png",
+		"url": "https://pastebin.com/4kdNqpgH",
+		"import": false
+		},
+		]
+	},
+ 
+ 
+ 
+	]
+}

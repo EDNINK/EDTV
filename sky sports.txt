@@ -1,0 +1,149 @@
+{
+"name": "sky sports",
+"author": "sky sports",
+"image": "https://advanced-television.com/wp-content/uploads/2020/03/skysports-logo-social.png",
+"url": "https://pastebin.com/edit/aUG2ipny",
+"groups":
+	[
+	{
+	"name": "sky sports main event",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",
+	"stations":
+		[
+		{
+		"name": "sky sports main event fifa5t",
+   		"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",
+		"url": "https://www.fifa5t.com/doballlive/ch077/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports cricket",
+	"image": "https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg",
+	"stations":
+		[
+		{
+		"name": "Sky Sports cricket fifa5t",
+   		"image": "https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg",
+		"url": "https://www.fifa5t.com/doballlive/ch078/",
+		"import": false
+		},
+		
+		]
+	},
+	{
+	"name": "sky sports action",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrefmYZl9y-kPz3YwwGT0sUMGFYqDbDClbte2HTyVTLWtFrvcreiefK3NeXiUkFa3FBh8&usqp=CAU",
+	"stations":
+		[
+		{
+		"name": "sky sports action fifa5t",
+   		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrefmYZl9y-kPz3YwwGT0sUMGFYqDbDClbte2HTyVTLWtFrvcreiefK3NeXiUkFa3FBh8&usqp=CAU",
+		"url": "https://www.fifa5t.com/doballlive/ch079/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports golf",
+	"image": "https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",
+	"stations":
+		[
+		{
+		"name": "sky sports golf fifa5t",
+   		"image": "https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",
+		"url": "https://www.fifa5t.com/doballlive/ch080/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports premier",
+	"image": "https://i.pinimg.com/564x/e3/56/3e/e3563e2b0457c49fc6ff6ebfd42830c7.jpg",
+	"stations":
+		[
+		{
+		"name": "sky sports premier fifa5t",
+   		"image": "https://i.pinimg.com/564x/e3/56/3e/e3563e2b0457c49fc6ff6ebfd42830c7.jpg",
+		"url": "https://www.fifa5t.com/doballlive/ch081/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports F1",
+	"image": "https://e2.365dm.com/21/02/192x192/skysports-ssf1-sky-2021_5261156.png?20210204125536",
+	"stations":
+		[
+		{
+		"name": "sky sports F1 fifa5t",
+   		"image": "https://e2.365dm.com/21/02/192x192/skysports-ssf1-sky-2021_5261156.png?20210204125536",
+		"url": "https://www.fifa5t.com/doballlive/ch082/",
+		"import": false
+		},
+		{
+		"name": "sky sports F1 doonung1234",
+   		"image": "https://e2.365dm.com/21/02/192x192/skysports-ssf1-sky-2021_5261156.png?20210204125536",
+		"url": "https://www.doonung1234.com/match/view/21269/skysportf1",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports football",
+	"image": "https://yt3.ggpht.com/ytc/AKedOLT4nIC5koOhfeMhk-iVW56hOtZKaXtS8YY3WXoGxw=s900-c-k-c0x00ffffff-no-rj",
+	"stations":
+		[
+		{
+		"name": "sky sports football fifa5t",
+   		"image": "https://yt3.ggpht.com/ytc/AKedOLT4nIC5koOhfeMhk-iVW56hOtZKaXtS8YY3WXoGxw=s900-c-k-c0x00ffffff-no-rj",
+		"url": "https://www.fifa5t.com/doballlive/ch083/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports arena",
+	"image": "https://i.pinimg.com/originals/5a/93/7e/5a937e49186760f18d8b3e920ebca1b8.png",
+	"stations":
+		[
+		{
+		"name": "sky sports arena fifa5t",
+   		"image": "https://i.pinimg.com/originals/5a/93/7e/5a937e49186760f18d8b3e920ebca1b8.png",
+		"url": "https://www.fifa5t.com/doballlive/ch084/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports mix",
+	"image": "https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg",
+	"stations":
+		[
+		{
+		"name": "sky sports mix fifa5t",
+   		"image": "https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg",
+		"url": "https://www.fifa5t.com/doballlive/ch085/",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "sky sports news",
+	"image": "https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg",
+	"stations":
+		[
+		{
+		"name": "sky sports news fifa5t",
+   		"image": "https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg",
+		"url": "https://www.fifa5t.com/doballlive/ch086/",
+		"import": false
+		},
+		]
+	},
+	]
+}
+
+
+

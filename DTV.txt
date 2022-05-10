@@ -1,0 +1,273 @@
+{
+"name": "ดิจิตอลทีวี DTV",
+"author": "ดิจิตอลทีวี DTV",
+"image": "http://aosat.igetweb.com/article/art_42144142.png",
+"url": "https://pastebin.com/edit/fzMu9D72",
+"stations": 
+	[
+	{
+	"name": "TV5HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",
+	"url": "https://www.livedoomovie.com:4431/02_5HD_720p/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "TV5HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",
+	"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/2/CH5-HD-2/37805.html",
+	"import": false
+	},
+	{
+	"name": "NBT",
+    "image": "https://f.ptcdn.info/269/040/000/o2urnlevgOJI3rLnDOZ-o.jpg",
+	"url": "https://www.livedoomovie.com:4431/02_NBTSD_480p/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "NBT",
+    "image": "https://f.ptcdn.info/269/040/000/o2urnlevgOJI3rLnDOZ-o.jpg",
+	"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/6/NBT-HD-6/37809.html",
+	"import": false
+	},
+	{
+	"name": "Thai PBS",
+    "image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",
+	"url": "https://www.livedoomovie.com:4431/02_THAIPBS_720p/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "Thai PBS",
+    "image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",
+	"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/7/THAI-PBS-HD-7/37810.html",
+	"import": false
+	},
+	{
+	"name": "ALTV",
+    "image": "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",
+	"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+	"import": false
+	},
+	{
+	"name": "ALTV",
+    "image": "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",
+	"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+	"import": false
+	},
+	{
+	"name": "T SPORTS​",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Zw-dlFrEV_OvlsnfSsftynvj5Mm3085FjQ&usqp=CAU",
+	"url": "https://www.doofootball.com/dootv/live/tsports#main_dootv",
+	"import": false
+	},
+	{
+	"name": "T SPORTS",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Zw-dlFrEV_OvlsnfSsftynvj5Mm3085FjQ&usqp=CAU",
+	"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/189/T-Sports-Channel-189/37979.html",
+	"import": false
+	},
+	{
+	"name": "โทรทัศน์รัฐสภา",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
+	"url": "http://live.parliament.go.th/",
+	"import": false
+	},
+	{
+	"name": "โทรทัศน์รัฐสภา",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
+	"url": "http://live.parliament.go.th/",
+	"import": false
+	},
+	{
+	"name": "TNN 16",
+    "image": "https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_original.png",
+	"url": "https://www.tnnthailand.com/live",
+	"import": false
+	},
+	{
+	"name": "TNN 16",
+    "image": "https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_original.png",
+	"url": "https://www.doofootball.com/dootv/live/tnn#main_dootv",
+	"import": false
+	},
+	{
+	"name": "JKN 18",
+    "image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",
+	"url": "https://www.adintrend.tv/hd/m/ch30",
+	"import": false
+	},
+	{
+	"name": "JKN 18",
+    "image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",
+	"url": "https://www.doofootball.com/dootv/live/newtv#main_dootv",
+	"import": false
+	},
+	{
+	"name": "เนชั่นทีวี",
+    "image": "https://ae-asia.net/wp-content/uploads/2020/08/ID_41851_5c93153cacbdc.jpg",
+	"url": "https://www.doofootball.com/dootv/live/nation#main_dootv",
+	"import": false
+	},
+	{
+	"name": "เนชั่นทีวี",
+    "image": "https://ae-asia.net/wp-content/uploads/2020/08/ID_41851_5c93153cacbdc.jpg",
+	"url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "Workpoint",
+    "image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+	"url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "Workpoint",
+    "image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+	"url": "https://www.doofootball.com/dootv/live/workpoint#main_dootv",
+	"import": false
+	},
+	{
+	"name": "true4U",
+    "image": "https://true4u.com/images/logo.png",
+	"url": "https://www.doofootball.com/dootv/live/true4u#main_dootv",
+	"import": false
+	},
+	{
+	"name": "true4U",
+    "image": "https://true4u.com/images/logo.png",
+	"url": "https://www.livedoomovie.com:4431/02_TRUE4U_480p/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "GMM 25",
+    "image": "https://www.gmm25.com/asset/img/GMM_25_Logo.png",
+	"url": "https://www.we-play.live/watching/tv/gmm25",
+	"import": false
+	},
+	{
+	"name": "GMM 25",
+    "image": "https://www.gmm25.com/asset/img/GMM_25_Logo.png",
+	"url": "http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "CH 8",
+    "image": "https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",
+	"url": "https://www.thaich8.com/live?var_link=720p",
+	"import": false
+	},
+	{
+	"name": "CH 8",
+    "image": "https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",
+	"url": "https://www.we-play.live/watching/tv/ch8",
+	"import": false
+	},
+	{
+	"name": "MONO 29",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+	"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "MONO 29 EN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+	"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "MCOT HD",
+    "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+	"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8",
+	"import": false
+	},
+	{
+	"name": "MCOT HD",
+    "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+	"url": "https://tc-live1.sanook.com/live/22302_ch9.m3u8",
+	"import": false
+	},
+	{
+	"name": "ONE 31",
+    "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+	"url": "https://www.we-play.live/watching/tv/one-hd",
+	"import": false
+	},
+	{
+	"name": "ONE 31 HD",
+    "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+	"url": "http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "Thairath HD",
+    "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+	"url": "https://live.thairath.co.th/trtv2/playlist.m3u8",
+	"import": false
+	},
+	{
+	"name": "Thairath HD",
+    "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+	"url": "https://www.we-play.live/watching/tv/thairath-tv",
+	"import": false
+	},
+	{
+	"name": "CH 3 HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ch3hd2020.png/200px-Ch3hd2020.png",
+	"url": "https://www.we-play.live/watching/tv/ch3-hd",
+	"import": false
+	},
+	{
+	"name": "CH 3 HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ch3hd2020.png/200px-Ch3hd2020.png",
+	"url": "http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "AMARIN TV",
+    "image": "https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",
+	"url": "http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8",
+	"import": false
+	},
+	{
+	"name": "AMARIN TV",
+    "image": "https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",
+	"url": "https://www.livedoomovie.com:4431/02_AMARINHD_720p/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "CH 7 HD",
+    "image": "https://f.ptcdn.info/326/049/000/olj5tqm1s41nKZ21elo-o.png",
+	"url": "https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8",
+	"import": false
+	},
+	{
+	"name": "CH 7 HD",
+    "image": "https://f.ptcdn.info/326/049/000/olj5tqm1s41nKZ21elo-o.png",
+	"url": "https://www.we-play.live/watching/tv/ch7-hd",
+	"import": false
+	},
+	{
+	"name": "PPTV 36 HD",
+    "image": "https://cdn6.aptoide.com/imgs/7/5/5/7550024475e7ec76bebd9911dfdaf0ef_icon.png?w=256",
+	"url": "http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8",
+	"import": false
+	},
+		{
+	"name": "PPTV 36 HD",
+    "image": "https://cdn6.aptoide.com/imgs/7/5/5/7550024475e7ec76bebd9911dfdaf0ef_icon.png?w=256",
+	"url": "https://www.we-play.live/watching/tv/pptv-hd",
+	"import": false
+	},
+  	{
+	"name": "TOP NEWS",
+    "image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",
+	"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+	"import": false
+	},  
+	{
+	"name": "TOP NEWS",
+    "image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",
+	"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+	"import": false
+	},  
+	]
+}

@@ -1,0 +1,163 @@
+{
+"name": "BT Sport",
+"author": "BT Sport",
+"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png",
+"url": "https://pastebin.com/edit/2sgZUFdW",
+"groups": 
+	[
+	{
+	"name": "BT Sport 1",
+	"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+	"stations":
+		[
+		{
+		"name": "BT Sport 1 We play",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://we-play.live/watching/tv/bt-sport-1-hd",
+		"import": false
+		},
+		{
+		"name": "BT Sport 1 doofootball",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://www.doofootball.com/dootv/live/btsport1#main_dootv",
+		"import": false
+		},
+		{
+		"name": "BT Sport 1 fifa5t",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://www.fifa5t.com/doballlive/ch088/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 1 dooball2you",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://dooball2you.com/bt-sport-1/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 1 livestream88",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://www.livestream88.com/sport/bt-sport-hd1/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 1 doonung1234",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0",
+		"url": "https://www.doonung1234.com/match/view/21234/btsport1",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "BT Sport 2",
+	"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+	"stations":
+		[
+		{
+		"name": "BT Sport 2 We play",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://we-play.live/watching/tv/bt-sport-2-hd",
+		"import": false
+		},
+		{
+		"name": "BT Sport 2 doofootball",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://www.doofootball.com/dootv/live/btsport2#main_dootv",
+		"import": false
+		},
+		{
+		"name": "BT Sport 2 fifa5t",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://www.fifa5t.com/doballlive/ch089/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 2 dooball2you",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://dooball2you.com/bt-sport-2/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 2 livestream88",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://www.livestream88.com/sport/bt-sport-hd2/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 2 doonung1234",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg?v=1.0",
+		"url": "https://www.doonung1234.com/match/view/21271/btsport2",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "BT Sport 3",
+	"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+	"stations":
+		[
+		{
+		"name": "BT Sport 3 We play",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://we-play.live/watching/tv/bt-sport-3-hd",
+		"import": false
+		},
+		{
+		"name": "BT Sport 3 doofootball",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://www.doofootball.com/dootv/live/btsport3#main_dootv",
+		"import": false
+		},
+		{
+		"name": "BT Sport 3 fifa5t",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://www.fifa5t.com/doballlive/ch090/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 3 dooball2yo",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://dooball2you.com/bt-sport-3/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 3 livestream88",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://www.livestream88.com/sport/bt-sport-hd3/",
+		"import": false
+		},
+		{
+		"name": "BT Sport 3 doonung1234",
+   		"image": "https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg?v=1.0",
+		"url": "https://www.doonung1234.com/match/view/21272/btsport3",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "BT Sport ESPN",
+	"image": "https://i.pinimg.com/originals/34/5f/3d/345f3da8a337549c0a233da99db6eaf3.png",
+	"stations":
+		[
+		{
+		"name": "BT Sport ESPN doofootball",
+   		"image": "https://i.pinimg.com/originals/34/5f/3d/345f3da8a337549c0a233da99db6eaf3.png",
+		"url": "https://www.doofootball.com/dootv/live/btsportespn#main_dootv",
+		"import": false
+		},
+		{
+		"name": "BT Sport ESPN fifa5t",
+   		"image": "https://i.pinimg.com/originals/34/5f/3d/345f3da8a337549c0a233da99db6eaf3.png",
+		"url": "https://www.fifa5t.com/doballlive/ch091/",
+		"import": false
+		},
+		{
+		"name": "BT Sport ESPN doonung1234",
+   		"image": "https://i.pinimg.com/originals/34/5f/3d/345f3da8a337549c0a233da99db6eaf3.png",
+		"url": "https://www.doonung1234.com/match/view/21295/btsportespn",
+		"import": false
+		},
+		]
+	},
+	]
+}

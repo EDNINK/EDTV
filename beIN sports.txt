@@ -1,0 +1,311 @@
+{
+"name": "beIN SPORTS",
+"author": "beIN SPORTS",
+"image": "https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",
+"url": "https://pastebin.com/edit/SdF7ntvg",
+"groups": 
+	[
+	{
+	"name":"beIN SPORTS TH",
+	"image":"https://pbs.twimg.com/profile_images/1017284752871575552/oDZg32la_400x400.jpg",
+	"groups":
+		[
+		{
+		"name":"beIN SPORTS 1",
+		"image":"https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 1 we-play",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://we-play.live/watching/tv/bein-sports-1",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 doofootball",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://www.doofootball.com/dootv/live/bein1#main_dootv",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 andaman888th",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport1/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 ดูหนังอิอิ",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 dooball2you",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport1/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 livestream88",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://www.livestream88.com/sport/bein-sport-hd-1/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 1 doomovie-hd",
+			"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+			"url": "https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 2",
+		"image":"https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 2 we-play",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://we-play.live/watching/tv/bein-sports-2",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 doofootball",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://www.doofootball.com/dootv/live/bein2#main_dootv",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 andaman888th",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport2/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 ดูหนังอิอิ",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 dooball2you",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport2/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 livestream88",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://www.livestream88.com/sport/bein-sport-hd-2/",
+			"import": false
+			},
+			{
+			"name": "beIN SPORTS 2 doomovie-hd",
+			"image": "https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",
+			"url": "https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
+			"import": false
+			},
+			]
+		},
+		]
+	},
+	{
+	"name":"beIN SPORTS FR",
+	"image":"https://yt3.ggpht.com/ytc/AAUvwnhl7oHyHiyk-3dIbtrQsWw6irLfZACybKFoI561tg=s900-c-k-c0x00ffffff-no-rj",
+	"groups":
+		[
+		{
+		"name":"beIN SPORTS 1",
+		"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 1 doofootball",
+			"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsport1fr#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 2",
+		"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 2 doofootball",
+			"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsport2fr#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS MAX4",
+		"image":"https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_4.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS MAX4 doofootball",
+			"image": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_4.png",
+			"url": "https://www.doofootball.com/dootv/live/beinmax4fr#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS MAX5",
+		"image":"https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_5.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS MAX5 doofootball",
+			"image": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_5.png",
+			"url": "https://www.doofootball.com/dootv/live/beinmax5fr#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS MAX6",
+		"image":"https://static.wikia.nocookie.net/logopedia/images/f/fd/BE_IN_SPORT_MAX_6_2017.png/revision/latest?cb=20191022182349",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS MAX6 doofootball",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fd/BE_IN_SPORT_MAX_6_2017.png/revision/latest?cb=20191022182349",
+			"url": "https://www.doofootball.com/dootv/live/beinmax6fr#main_dootv",
+			"import": false
+			},
+			]
+		},
+		]
+	},
+	{
+	"name":"beIN SPORTS AU",
+	"image":"https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg",
+	"groups":
+		[
+		{
+		"name":"beIN SPORTS 1",
+		"image":"https://2.bp.blogspot.com/-eYpRioiFuWY/WVGDA9lK2DI/AAAAAAAAHag/pA75WpAw9aUUoz2TbqzWMZeWhZzDnnCAgCLcBGAs/s1600/be_in_tr_sports_01_hd.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 1 doofootball",
+			"image": "https://2.bp.blogspot.com/-eYpRioiFuWY/WVGDA9lK2DI/AAAAAAAAHag/pA75WpAw9aUUoz2TbqzWMZeWhZzDnnCAgCLcBGAs/s1600/be_in_tr_sports_01_hd.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsports1au#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 2",
+		"image":"https://2.bp.blogspot.com/-A8Tzxf03hE0/WVGDxemUWrI/AAAAAAAAHak/Df72CHt1mHMxp1VLzGL-1EQVVrw35E_UwCLcBGAs/s1600/be_in_tr_sports_02_hd.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 2 doofootball",
+			"image": "https://2.bp.blogspot.com/-A8Tzxf03hE0/WVGDxemUWrI/AAAAAAAAHak/Df72CHt1mHMxp1VLzGL-1EQVVrw35E_UwCLcBGAs/s1600/be_in_tr_sports_02_hd.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsports2au#main_dootv",
+			"import": false
+			},
+			]
+		},
+		]
+	},
+	{
+	"name":"beIN SPORTS TU",
+	"image":"https://1.bp.blogspot.com/-ManheotU3bE/YHsZW0hcn9I/AAAAAAAAFOo/SDmaTb5r7DUN618hz2b93qI6JOKwVgeVQCLcBGAsYHQ/s1920/bein%2Bsports%2Bturkiye%2B%25281%2529.jpg",
+	"groups":
+		[
+		{
+		"name":"beIN SPORTS 1",
+		"image":"https://2.bp.blogspot.com/-eYpRioiFuWY/WVGDA9lK2DI/AAAAAAAAHag/pA75WpAw9aUUoz2TbqzWMZeWhZzDnnCAgCLcBGAs/s1600/be_in_tr_sports_01_hd.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 1 doofootball",
+			"image": "https://2.bp.blogspot.com/-eYpRioiFuWY/WVGDA9lK2DI/AAAAAAAAHag/pA75WpAw9aUUoz2TbqzWMZeWhZzDnnCAgCLcBGAs/s1600/be_in_tr_sports_01_hd.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsports1tu#main_dootv",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 2",
+		"image":"https://2.bp.blogspot.com/-A8Tzxf03hE0/WVGDxemUWrI/AAAAAAAAHak/Df72CHt1mHMxp1VLzGL-1EQVVrw35E_UwCLcBGAs/s1600/be_in_tr_sports_02_hd.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 2 doofootball",
+			"image": "https://2.bp.blogspot.com/-A8Tzxf03hE0/WVGDxemUWrI/AAAAAAAAHak/Df72CHt1mHMxp1VLzGL-1EQVVrw35E_UwCLcBGAs/s1600/be_in_tr_sports_02_hd.png",
+			"url": "https://www.doofootball.com/dootv/live/beinsports2tu#main_dootv",
+			"import": false
+			},
+			]
+		},
+		]
+	},
+	{
+	"name":"beIN SPORTS AR",
+	"image":"https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",
+	"groups":
+		[
+		{
+		"name":"beIN SPORTS 1",
+		"image":"https://doo2you.com/icon/beinsportarabia1.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 1 fifa5t",
+			"image": "https://doo2you.com/icon/beinsportarabia1.png",
+			"url": "https://www.fifa5t.com/doballlive/ch357/",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 2",
+		"image":"https://doo2you.com/icon/beinsportarabia2.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 2 fifa5t",
+			"image": "https://doo2you.com/icon/beinsportarabia2.png",
+			"url": "https://www.fifa5t.com/doballlive/ch454/",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 3",
+		"image":"https://doo2you.com/icon/beinsportarabia3.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 3 fifa5t",
+			"image": "https://doo2you.com/icon/beinsportarabia3.png",
+			"url": "https://www.fifa5t.com/doballlive/ch262/",
+			"import": false
+			},
+			]
+		},
+		{
+		"name":"beIN SPORTS 4",
+		"image":"https://doo2you.com/icon/beinsportarabia3.png",
+		"stations":
+			[
+			{
+			"name": "beIN SPORTS 4 fifa5t",
+			"image": "https://doo2you.com/icon/beinsportarabia4.png",
+			"url": "https://www.fifa5t.com/doballlive/ch441/",
+			"import": false
+			},
+			]
+		},
+		]
+	},
+	]
+}

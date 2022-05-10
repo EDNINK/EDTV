@@ -1,0 +1,86 @@
+{
+"name": "DIGI sport",
+"author": "DIGI sport",
+"image": "https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",
+"url": "https://pastebin.com/edit/gqx9gMuE",
+"groups": 
+	[
+	{
+	"name": "DIGI sport 1",
+	"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919153840",
+	"stations":
+		[
+		{
+		"name": "DIGI sport 1 doofootball",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919153840",
+		"url": "https://www.doofootball.com/dootv/live/digisport1romania#main_dootv",
+		"import": false
+		},
+		{
+		"name": "DIGI sport 1 doonung1234",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919153840",
+		"url": "https://www.doonung1234.com/match/view/21272/digisport1romania",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "DIGI sport 2",
+	"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919154454",
+	"stations":
+		[
+		{
+		"name": "DIGI sport 2 doofootball",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919154454",
+		"url": "https://www.doofootball.com/dootv/live/digisport2romania#main_dootv",
+		"import": false
+		},
+			{
+		"name": "DIGI sport 2 doonung1234",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919154454",
+		"url": "https://www.doonung1234.com/match/view/21272/digisport2romania",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "DIGI sport 3",
+	"image": "https://static.wikia.nocookie.net/tvfanon6528/images/3/35/Digi_Sport_3_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155257",
+	"stations":
+		[
+		{
+		"name": "DIGI sport 3 doofootball",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/3/35/Digi_Sport_3_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155257",
+		"url": "https://www.doofootball.com/dootv/live/digisport3romania#main_dootv",
+		"import": false
+		},
+		{
+		"name": "DIGI sport 3 doonung1234",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/3/35/Digi_Sport_3_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155257",
+		"url": "https://www.doonung1234.com/match/view/21272/digisport3romania",
+		"import": false
+		},
+		]
+	},
+	{
+	"name": "DIGI sport 4",
+	"image": "https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155639",
+	"stations":
+		[
+		{
+		"name": "DIGI sport 4 doofootball",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155639",
+		"url": "https://www.doofootball.com/dootv/live/digisport4romania#main_dootv",
+		"import": false
+		},
+		{
+		"name": "DIGI sport 4 doonung1234",
+   		"image": "https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180919155639",
+		"url": "https://www.doonung1234.com/match/view/21272/digisport4romania",
+		"import": false
+		},
+		]
+	},
+	]
+}
+

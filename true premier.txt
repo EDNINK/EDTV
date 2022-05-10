@@ -1,0 +1,344 @@
+{
+"name": "true PREMIER FOOTBALL",
+"author": "true PREMIER FOOTBALL",
+"image": "https://www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg",
+"url": "https://pastebin.com/edit/YJvbJkGv",
+"groups": 
+	[
+	{
+	"name":"premier 1",
+	"image":"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+	"stations":
+		[
+		{
+		"name": "premier 1 We play",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
+		"import": false
+		},
+		{
+		"name": "premier 1 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://www.doofootball.com/dootv/live/epl1#main_dootv",
+		"import": false
+		},
+		{
+		"name": "premier 1 andaman888th",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/",
+		"import": false
+		},
+		{
+		"name": "premier 1 ดูหนังอิอิHD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html",
+		"import": false
+		},
+		{
+		"name": "premier 1 ดูหนังอิอิSD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37938.html",
+		"import": false
+		},
+		{
+		"name": "premier 1 fifa5t",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch373/",
+		"import": false
+		},
+		{
+		"name": "premier 1 dooball2you",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf1/",
+		"import": false
+		},
+		{
+		"name": "premier 1 udoofree",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "http://udoofree.com/movie2/198/single-live?watch=1",
+		"import": false
+		},
+		{
+		"name": "premier 1 livestream88",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://www.livestream88.com/sport/true-premier-football-hd-1/",
+		"import": false
+		},
+		{
+		"name": "premier 1 doomovie-hd",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"premier 2",
+	"image":"https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+	"stations":
+		[
+		{
+		"name": "premier 2 We play",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-premier-football-hd-2",
+		"import": false
+		},
+		{
+		"name": "premier 2 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.doofootball.com/dootv/live/epl2#main_dootv",
+		"import": false
+		},
+		{
+		"name": "premier 2 andaman888th",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd2/",
+		"import": false
+		},
+		{
+		"name": "premier 2 ดูหนังอิอิHD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/152/Premier-Football-HD-2-152/37939.html",
+		"import": false
+		},
+		{
+		"name": "premier 2 ดูหนังอิอิSD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/152/Premier-Football-HD-2-152/37940.html",
+		"import": false
+		},
+		{
+		"name": "premier 2 fifa5t",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch374/",
+		"import": false
+		},
+		{
+		"name": "premier 2 dooball2you",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf2/",
+		"import": false
+		},
+		{
+		"name": "premier 2 udoofree",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "http://udoofree.com/movie2/198/single-live?watch=1",
+		"import": false
+		},
+		{
+		"name": "premier 2 livestream88",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://www.livestream88.com/sport/true-premier-football-hd-2/",
+		"import": false
+		},
+		{
+		"name": "premier 2 doomovie-hd",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"premier 3",
+	"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+	"stations":
+		[
+		{
+		"name": "premier 3 We play",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-premier-football-hd-3",
+		"import": false
+		},
+		{
+		"name": "premier 3 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.doofootball.com/dootv/live/epl3#main_dootv",
+		"import": false
+		},
+		{
+		"name": "premier 3 andaman888th",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/",
+		"import": false
+		},
+		{
+		"name": "premier 3 ดูหนังอิอิHD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/153/Premier-Football-HD-3-153/37941.html",
+		"import": false
+		},
+		{
+		"name": "premier 3 ดูหนังอิอิSD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/153/Premier-Football-HD-3-153/37942.html",
+		"import": false
+		},
+		{
+		"name": "premier 3 fifa5t",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch375/",
+		"import": false
+		},
+		{
+		"name": "premier 3 dooball2you",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf3/",
+		"import": false
+		},
+		{
+		"name": "premier 3 udoofree",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "http://udoofree.com/movie2/200/single-live?watch=1",
+		"import": false
+		},
+		{
+		"name": "premier 3 livestream88",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://www.livestream88.com/sport/true-premier-football-hd-3/",
+		"import": false
+		},
+		{
+		"name": "premier 3 doomovie-hd",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"premier 4",
+	"image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+	"stations":
+		[
+		{
+		"name": "premier 4 We play",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-premier-football-hd-4",
+		"import": false
+		},
+		{
+		"name": "premier 4 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.doofootball.com/dootv/live/epl4#main_dootv",
+		"import": false
+		},
+		{
+		"name": "premier 4 andaman888th",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd4/",
+		"import": false
+		},
+		{
+		"name": "premier 4 ดูหนังอิอิHD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/154/Premier-Football-HD-4-154/37943.html",
+		"import": false
+		},
+		{
+		"name": "premier 4 ดูหนังอิอิSD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/154/Premier-Football-HD-4-154/37944.html",
+		"import": false
+		},
+		{
+		"name": "premier 4 fifa5t",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch376/",
+		"import": false
+		},
+		{
+		"name": "premier 4 dooball2you",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf4/",
+		"import": false
+		},
+		{
+		"name": "premier 4 udoofree",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "http://udoofree.com/movie2/201/single-live?watch=1",
+		"import": false
+		},
+		{
+		"name": "premier 4 livestream88",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://www.livestream88.com/sport/true-premier-football-hd-4/",
+		"import": false
+		},
+		{
+		"name": "premier 4 doomovie-hd",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	{
+	"name":"premier 5",
+	"image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+	"stations":
+		[
+		{
+		"name": "premier 5 We play",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.we-play.live/watching/tv/true-premier-football-hd-5",
+		"import": false
+		},
+		{
+		"name": "premier 5 doofootball",
+    	"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.doofootball.com/dootv/live/epl5#main_dootv",
+		"import": false
+		},
+		{
+		"name": "premier 5 andaman888th",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+"url":"https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd5/",
+		"import": false
+		},
+		{
+		"name": "premier 5 ดูหนังอิอิHD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/155/Premier-Football-HD-5-155/37945.html",
+		"import": false
+		},
+		{
+		"name": "premier 5 ดูหนังอิอิSD",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.xn--72czp5emaz0ab6b.com/player/c/155/Premier-Football-HD-5-155/37946.html",
+		"import": false
+		},
+		{
+		"name": "premier 5 fifa5t",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.fifa5t.com/doballlive/ch377/",
+		"import": false
+		},
+		{
+		"name": "premier 5 dooball2you",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87tpf5/",
+		"import": false
+		},
+		{
+		"name": "premier 5 udoofree",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "http://udoofree.com/movie2/202/single-live?watch=1",
+		"import": false
+		},
+		{
+		"name": "premier 5 livestream88",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://www.livestream88.com/sport/true-premier-football-hd-5/",
+		"import": false
+		},
+		{
+		"name": "premier 5 doomovie-hd",
+   		"image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+		"url": "https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8",
+		"import": false
+		},
+		]
+	},
+	]
+}
