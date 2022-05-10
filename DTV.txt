@@ -2,7 +2,7 @@
 "name": "ดิจิตอลทีวี DTV",
 "author": "ดิจิตอลทีวี DTV",
 "image": "http://aosat.igetweb.com/article/art_42144142.png",
-"url": "https://pastebin.com/edit/fzMu9D72",
+"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/DTV.txt",
 "stations": 
 	[
 	{
