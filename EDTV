@@ -1,0 +1,156 @@
+{
+"name": "EDTV",
+"author": "ED",
+"image": "https://www.appcreator24.com/srv/imgs/gen/1216742_ico.png?ts=1608123690",
+"url": "https://pastebin.com/edit/ARmSZkCr",
+"groups":
+	[
+	{
+	"name": "ดิจิตอลทีวี DTV",
+	"image": "http://aosat.igetweb.com/article/art_42144142.png",
+	"url": "https://pastebin.com/fzMu9D72",
+	"import": false
+	},	
+	{
+	"name":"SPORTS",	
+	"image":"https://f.ptcdn.info/272/061/000/pjb62g64b6VW3x7v8Tc8-o.gif",
+	"groups":
+		[
+        {
+		"name": "ตารางถ่ายทอดสดฟุตบอล",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNckEgxuUagUkK6UIlPuTOLMLJ0t3UcpHmw&usqp=CAU",
+		"url": "https://pastebin.com/CfPEkHei",
+		"embed": true
+		},
+		{
+		"name": "Highlights Football",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/A1eGY9SWDwL.png",
+		"url": "https://pastebin.com/edit/PB6Tdh5i",
+		"import": false
+		},
+		{
+		"name": "true PREMIER FOOTBALL",
+		"image": "https://www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg",
+		"url": "https://pastebin.com/YJvbJkGv",
+		"import": false
+		},
+		{
+		"name": "true sports",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
+		"url": "https://pastebin.com/5iVkjp5w",
+		"import": false
+		},
+		{
+		"name": "beIN SPORTS",
+		"image": "https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",
+		"url": "https://pastebin.com/SdF7ntvg",
+		"import": false
+		},
+		{
+		"name": "BT Sport",
+		"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png",
+		"url": "https://pastebin.com/2sgZUFdW",
+		"import": false
+		},
+		{
+		"name": "Motorsports",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSsCWrmczKKhFCpRBKurEpYwk8BKfWPkqAw&usqp=CAU",
+		"url": "https://pastebin.com/edit/uWj8cmTf",
+		"import": false
+		},
+		{
+		"name": "MLB NHL NBA NFL",
+		"image": "https://i.pinimg.com/originals/c9/1d/5b/c91d5b3476d9b61b137fbc0d7df43921.png",
+		"url": "https://pastebin.com/qi0GYhD2",
+		"import": false
+		},
+		{
+		"name": "astro SUPERSPORT​",
+		"image": "https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",
+		"url": "https://pastebin.com/R1Y7wLNL",
+		"import": false
+		},
+		{
+		"name": "DIGI sport",
+		"image": "https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",
+		"url": "https://pastebin.com/gqx9gMuE",
+		"import": false
+		},
+		{
+		"name": "ARENA SPORT​",
+		"image": "https://www.tvarenasport.com/sites/default/files/default_images/300x250.jpg?img=1",
+		"url": "https://pastebin.com/V1yBgej7",
+		"import": false
+		},
+		{
+		"name": "SPORT TV",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-CZU3IcxbhASV8zGUaOnOFqJ3prXXci9xsA&usqp=CAU",
+		"url": "https://pastebin.com/BHqPHMn2",
+		"import": false
+		},
+		{
+		"name": "sky sports",
+		"image": "https://advanced-television.com/wp-content/uploads/2020/03/skysports-logo-social.png",
+		"url": "https://pastebin.com/aUG2ipny",
+		"import": false
+		},
+		{
+		"name": "ESPN",
+		"image": "https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",
+		"url": "https://pastebin.com/QuB4EKnH",
+		"import": false
+		},
+		{
+		"name": "SPORTKLUB​",
+		"image": "https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/04/23/skhd_logo_16_9_light_160x90_14f6cb27_ade9_4013_a133_3d9e5655a920.png",
+		"url": "https://pastebin.com/xih0iTXx",
+		"import": false
+		},
+		
+		]
+	},
+	{
+	"name": "อนิเมะ Anime",
+	"image": "https://i0.wp.com/akibatan.com/wp-content/uploads/2012/07/konatan.jpg?ssl=1",
+	"url": "https://pastebin.com/7WDWaUiM",
+	"import": false
+	},	
+	{
+	"name": "หนังและซีรี่ย์",
+	"image": "https://syriantechbucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/10/01231111/4K-Resolution-Ultra-HD-000.jpg",
+	"url": "https://pastebin.com/Hsse3ZXz",
+	"import": false
+	},	
+	{
+	"name": "ช่องหนัง ภาพยนตร์",
+	"image": "https://media1.giphy.com/media/IdgOIVyE5jy6vPaLBM/giphy.gif",
+	"url": "https://pastebin.com/xzLwUaft",
+	"import": false
+	},	
+	{
+	"name": "ช่องการ์ตูน",
+	"image": "https://i.makeagif.com/media/11-03-2015/EfpIHo.gif",
+	"url": "https://pastebin.com/DFhTLvpH",
+	"import": false
+	},	
+	{
+	"name": "ช่องสารคดี",
+	"image": "https://f.ptcdn.info/274/056/000/p4hpy522n69nuOn6gjf-o.jpg",
+	"url": "https://pastebin.com/Gh5fqrhE",
+	"import": false
+	},	
+		
+
+
+
+
+		
+]
+}
+
+
+
+
+
+
+
