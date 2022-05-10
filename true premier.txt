@@ -2,7 +2,7 @@
 "name": "true PREMIER FOOTBALL",
 "author": "true PREMIER FOOTBALL",
 "image": "https://www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg",
-"url": "https://pastebin.com/edit/YJvbJkGv",
+"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20premier.txt",
 "groups": 
 	[
 	{
