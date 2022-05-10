@@ -2,7 +2,7 @@
 "name": "true sports",
 "author": "true sports",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
-"url": "https://pastebin.com/edit/5iVkjp5w",
+"url": "https://raw.githubusercontent.com/EDNINK/EDTV/main/true%20sports.txt",
 "groups": 
 	[
 	{
